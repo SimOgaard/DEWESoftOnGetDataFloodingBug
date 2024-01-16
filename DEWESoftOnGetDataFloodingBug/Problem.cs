@@ -24,7 +24,7 @@ namespace DEWESoftOnGetDataFloodingBug
             if (app is null)
                 return false;
 
-            // this one will break it (takes ~5ms)
+            // this one will break it (takes ~3ms)
             //app.OnGetData += App_OnGetData_Break;
 
             // this one wont (takes ~0.05ms)
