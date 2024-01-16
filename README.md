@@ -8,3 +8,4 @@ Look for Media/Showcase.mp4 and view it directly if the video tag does not work.
 </video>
 
 Developer's Note: If the user never interacts with DEWESoft while data is being fetched, the application will remain stable. Any potential issues are likely related to the UI thread of DEWESoft.
+I've also tested with the latest 2023.6 DewesoftX release and it has the same issue.
