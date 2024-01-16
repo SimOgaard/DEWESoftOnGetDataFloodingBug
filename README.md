@@ -6,3 +6,5 @@ Look for Media/Showcase.mp4 and view it directly if the video tag does not work.
 <video controls>
   <source src="Media/Showcase.mp4" type="video/mp4">
 </video>
+
+Developer's Note: If the user never interacts with DEWESoft while data is being fetched, the application will remain stable. Any potential issues are likely related to the UI thread of DEWESoft.
